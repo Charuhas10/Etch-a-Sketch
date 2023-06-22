@@ -1,0 +1,73 @@
+@import url("https://fonts.googleapis.com/css2?family=Bubblegum+Sans&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Bubblegum Sans", cursive;
+}
+
+body {
+  user-select: none;
+  font-family: "Bubblegum Sans", cursive;
+  background-image: radial-gradient(
+    circle,
+    #a0c49d,
+    #a7c7a1,
+    #aecba4,
+    #b4cea8,
+    #bbd2ac,
+    #c0d5b0,
+    #c6d9b3,
+    #cbdcb7,
+    #d1e0bb,
+    #d6e4bf,
+    #dce8c4,
+    #e1ecc8
+  );
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 2rem;
+}
+
+h1 {
+  font-size: 4rem;
+}
+
+.buttons {
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+}
+
+button {
+  font-size: 1rem;
+  padding: 5px;
+  border-radius: 5px;
+  border: none;
+  background-color: #fff;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+#grid-container {
+  display: grid;
+  margin: 2rem;
+  width: 512px;
+  height: 512px;
+  overflow: hidden;
+}
+
+.grid-item {
+  background-color: #fff;
+  border: 1px solid #ccc;
+  padding: 0;
+  margin: 0;
+  width: 100%; /* Make each grid item fill the available width */
+  height: 100%; /* Make each grid item fill the available height */
+}
