@@ -17,6 +17,10 @@ You can use the tool by going to the website or by downloading the repository an
 <br>
 https://charuhas10.github.io/Etch-a-Sketch/
 
+
+![img](https://github.com/Charuhas10/Etch-a-Sketch/assets/72398218/d00d8e8a-996d-44a5-b0e5-3f1aabaef392)
+
+
 ## Contributions
 
 Contributions to ChromaShift are welcome! If you find any issues, bugs, or have suggestions for improvement, please feel free to open an issue or submit a pull request on the project's GitHub repository.
