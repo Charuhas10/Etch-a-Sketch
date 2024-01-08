@@ -23,13 +23,13 @@ https://charuhas10.github.io/Etch-a-Sketch/
 
 ## Contributions
 
-Contributions to ChromaShift are welcome! If you find any issues, bugs, or have suggestions for improvement, please feel free to open an issue or submit a pull request on the project's GitHub repository.
+Contributions to Etch-a-Sketch are welcome! If you find any issues, bugs, or have suggestions for improvement, please feel free to open an issue or submit a pull request on the project's GitHub repository.
 
 When contributing, please ensure that you follow the established coding conventions, maintain clear commit messages, and provide appropriate documentation when necessary.
 
 ## License
 
-ChromaShift is released under the MIT License, which means you are free to use, modify, and distribute the code for personal or commercial purposes. However, it comes with no warranty, and the authors will not be held liable for any damages caused by its use.
+Etch-a-Sketch is released under the MIT License, which means you are free to use, modify, and distribute the code for personal or commercial purposes. However, it comes with no warranty, and the authors will not be held liable for any damages caused by its use.
 
 Please see the LICENSE file for more details.
 
